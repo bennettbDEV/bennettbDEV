@@ -10,7 +10,6 @@
 - If anything I'm working on looks interesting feel free to message me on [linkedin](https://www.linkedin.com/in/bennettbeltran/) or on the contact page of [my website](https://www.bennettbeltran.com/#Contact).
 
 ---
-
 ### Fun Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=bennettbDEV&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 
