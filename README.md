@@ -3,17 +3,11 @@
   <a href="https://github.com/bennettbDEV/bennettbDEV">
     <img src="images/logo_single.png" alt="Logo" width="80" height="80">
   </a>
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/bennettbeltran/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
 </div>
 
 ### About me:
 - I'm a programmer that's trying to get better every day.
-- If anything I'm working on looks interesting feel free to message me on linkedin or on the contact page of [my website](https://www.bennettbeltran.com/#Contact).
+- If anything I'm working on looks interesting feel free to message me on [linkedin](https://www.linkedin.com/in/bennettbeltran/) or on the contact page of [my website](https://www.bennettbeltran.com/#Contact).
 
 ---
 
