@@ -7,7 +7,7 @@
 
 ### About me:
 - I'm a programmer that's trying to get better every day.
-- If anything I'm working on looks interesting feel free to message me on [linkedin](https://www.linkedin.com/in/bennettbeltran/) or on the contact page of [my website](https://www.bennettbeltran.com/#Contact).
+- If anything I'm working on looks interesting, feel free to message me on [Linkedin](https://www.linkedin.com/in/bennettbeltran/) or on the contact page of [my website](https://www.bennettbeltran.com/#Contact).
 
 ---
 ### Fun Stats :
